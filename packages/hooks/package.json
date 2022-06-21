@@ -1,12 +1,12 @@
 {
   "name": "hooks",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "build": "echo hooks build succeed"
   },
   "dependencies": {
-    "app": "^1.1.0"
+    "app": "^1.2.0"
   }
 }
