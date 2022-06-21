@@ -1,1 +1,3 @@
-console.log('app')
+const {show} = require('hooks')
+
+show()

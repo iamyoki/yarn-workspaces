@@ -6,5 +6,9 @@
   "private": true,
   "scripts": {
     "build": "echo build app succeed"
+  },
+  "dependencies": {
+    "components": "^1.0.1",
+    "hooks": "^1.0.1"
   }
 }

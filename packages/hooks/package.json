@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "build": "echo hooks build succeed"
+  },
+  "dependencies": {
+    "app": "^1.1.0"
   }
 }
