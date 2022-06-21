@@ -10,6 +10,7 @@
   ],
   "scripts": {
     "build": "yarn workspaces run build",
+    "new-version": "lerna version --conventional-commits",
     "publish": "lerna publish --conventional-commits"
   },
   "devDependencies": {
